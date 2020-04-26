@@ -65,7 +65,7 @@ holiday_hash.map do |season, holiday|
   end.flatten.compact
 end
 
-def second_supply_for_fourth_of_july
+def second_supply_for_fourth_of_july(holdiay_hash)
 
 
 
